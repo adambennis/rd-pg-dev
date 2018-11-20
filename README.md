@@ -7,8 +7,7 @@ This is a sample stack f to create a PostgreSQL RDS instance with dev appropriat
 To get started, clone the repository and change the directory names under each dev* directory to your environment/name. Please note that creating RDS instances can take approximately 10-15 minutes to complete.
 
 ```
-cd sample-rds-postgres-prod
-mv tm-intl-prod/ice1 tm-intl-prod/prod1
+mv test/dev1 test/dev2
 ```
 ## Developing
 You'll need to change the following in the terraform.tfvars file for each environment . The file contains environment-specific variables that will get called during execution time.
