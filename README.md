@@ -31,8 +31,6 @@ You'll need to change the following in the terraform.tfvars file for each enviro
  - cw_alarms (choose whether to receive alarms from CloudWatch)
 
 
-Please see for more details - https://contegixapp1.livenation.com/confluence/display/AWS/Terraformer+Version
-
 ## Planning
 After the above tags and variable values have been changed, you can run <strong>terraformer plan</strong> to see what Terraform intends to create.
 
