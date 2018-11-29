@@ -1,7 +1,7 @@
 # AWS RDS - PostgreSQL
 
 ## Summary
-This is a sample stack f to create a PostgreSQL RDS instance with dev appropriate sizing and configuration. 
+This is a sample stack  to create a PostgreSQL RDS instance with dev appropriate sizing and configuration. 
 
 ## Getting started
 To get started, clone the repository and change the directory names under each dev* directory to your environment/name. Please note that creating RDS instances can take approximately 10-15 minutes to complete.
